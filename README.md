@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## How to use Application 
- Scroll through the Photoographs and hit like for the ones you like, If you like by accident you can simply use the unlike button and the like button will enable again. Unlike does nothing until Like is disabled.
+ Scroll through the Photoographs and hit like for the ones you like, If you like by accident you can simply use the unlike button and the like button will enable again. 
 
 
 
